@@ -4,6 +4,7 @@
 |---|---|
 |[Angry Professor - Easy](https://www.hackerrank.com/challenges/angry-professor/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/angry-professor.js)|
 |[Beautiful Triplets - Easy](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/beautiful-triplets.js)|
+|[Chocolate Feast - Easy](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/chocolate-feast.js)|
 |[Drawing Book - Easy](https://www.hackerrank.com/challenges/drawing-book/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/drawing-book.js)| 
 |[Electronics Shop - Easy](https://www.hackerrank.com/challenges/electronics-shop/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/electronics-shop.js)| 
 |[Encryption - Medium](https://www.hackerrank.com/challenges/encryption/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/encryption.js)| 
