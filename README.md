@@ -13,3 +13,4 @@
 |[Picking Numbers - Easy](https://www.hackerrank.com/challenges/picking-numbers/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/picking-numbers.js)|
 |[Repeated String - Easy](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/repeated-string.js)|
 |[The Hurdle Race - Easy](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/the-hurdle-race.js)|
+|[The Time In Words - Medium](https://www.hackerrank.com/challenges/the-time-in-words/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/the-time-in-words.js)|
