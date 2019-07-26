@@ -11,6 +11,7 @@
 |[Equalize the Array - Easy](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/equalize-the-array.js)|
 |[Find Digits - Easy](https://www.hackerrank.com/challenges/find-digits/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/find-digits.js)|
 |[Library Fine - Easy](https://www.hackerrank.com/challenges/library-fine/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/library-fine.js)|
+|[Lisa's Workbook - Easy](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/lisas-workbook.js)|
 |[Picking Numbers - Easy](https://www.hackerrank.com/challenges/picking-numbers/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/picking-numbers.js)|
 |[Repeated String - Easy](https://www.hackerrank.com/challenges/repeated-string/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/repeated-string.js)|
 |[The Hurdle Race - Easy](https://www.hackerrank.com/challenges/the-hurdle-race/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/the-hurdle-race.js)|
