@@ -9,7 +9,8 @@
 |[Electronics Shop - Easy](https://www.hackerrank.com/challenges/electronics-shop/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/electronics-shop.js)| 
 |[Encryption - Medium](https://www.hackerrank.com/challenges/encryption/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/encryption.js)| 
 |[Equalize the Array - Easy](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/equalize-the-array.js)|
-|[Find Digits - Easy](https://www.hackerrank.com/challenges/find-digits/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/find-digits.js)|
+|[Fair Rations - Easy](https://www.hackerrank.com/challenges/fair-rations/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/find-digits.js)|
+|[Find Digits - Easy](https://www.hackerrank.com/challenges/find-digits/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/fair-rations.js)|
 |[Library Fine - Easy](https://www.hackerrank.com/challenges/library-fine/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/library-fine.js)|
 |[Lisa's Workbook - Easy](https://www.hackerrank.com/challenges/lisa-workbook/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/lisas-workbook.js)|
 |[Picking Numbers - Easy](https://www.hackerrank.com/challenges/picking-numbers/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/picking-numbers.js)|
