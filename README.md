@@ -1,7 +1,7 @@
 # Hackerrank-Challenges
 
 |CHALLENGE|SOLUTION|
-|---|---|
+|---|---|---|
 |[Angry Professor - Easy](https://www.hackerrank.com/challenges/angry-professor/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/angry-professor.js)|
 |[Beautiful Triplets - Easy](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/beautiful-triplets.js)|
 |[Chocolate Feast - Easy](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/chocolate-feast.js)|
