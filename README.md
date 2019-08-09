@@ -4,8 +4,10 @@
 |---|---|---|
 |[Angry Professor - Easy](https://www.hackerrank.com/challenges/angry-professor/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/angry-professor.js)||
 |[Beautiful Triplets - Easy](https://www.hackerrank.com/challenges/beautiful-triplets/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/beautiful-triplets.js)||
+|[Birthday Cake Candles - Easy](https://www.hackerrank.com/challenges/birthday-cake-candles/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/birthday-cake-candles.js)|[Ruby](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/birthday-cake-candles.rb)|
 |[Chocolate Feast - Easy](https://www.hackerrank.com/challenges/chocolate-feast/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/chocolate-feast.js)||
 |[Drawing Book - Easy](https://www.hackerrank.com/challenges/drawing-book/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/drawing-book.js)||
+|[Divisible Sum Pairs - Easy](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/divisible-sum-pairs.js)|[Ruby](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/divisible-sum-pairs.rb)|
 |[Electronics Shop - Easy](https://www.hackerrank.com/challenges/electronics-shop/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/electronics-shop.js)|| 
 |[Encryption - Medium](https://www.hackerrank.com/challenges/encryption/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/encryption.js)|| 
 |[Equalize the Array - Easy](https://www.hackerrank.com/challenges/equality-in-a-array/problem)|[JavaScript](https://github.com/vieiramanda11/Hackerrank-Challenges/blob/master/equalize-the-array.js)||
